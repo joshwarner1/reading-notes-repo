@@ -10,13 +10,13 @@
 6. When makin text italicized you use the __ symbol at the beginning and end of text.
 7. To create a markdown link you wrap the link __ text brackets symbol , and then wrapping the URL in __ parantheses symbol.
 8. To create a unorderd list you use ___,__, and ___ as your symbols.
-
-1. Markup language
-2.  websites, documents, notes, books, presentations, email messages, and technical documentation.
-3.  #
-4.  6 # for 6 different headings
-5.  **
-6.  *
-7.  [] ()
-8.  -,*,+
+#Ansers
+ 1.Markup language
+ 2.websites, documents, notes, books, presentations, email messages, and technical documentation.
+  3.#
+  4.6 # for 6 different headings
+   5.**
+   6.*
+   7.[] ()
+   8.-,*,+
 
